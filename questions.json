@@ -1,0 +1,432 @@
+{
+  "heading": "Assessment",
+  "topics": [
+    {
+      "heading": "Assessment",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Daniel and Sofia each think of a different whole number greater than 0 and less than 100.<br>Daniel’s number is a multiple of 4.<br>Sofia’s number is an odd number which is a multiple of 9.<br>What is the difference between the largest possible value of Daniel’s number and the smallest possible value of Sofia’s number?",
+          "options": [
+            { "text": "46" },
+            { "text": "54" },
+            { "text": "61" },
+            { "text": "63" },
+            { "text": "87" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 2,
+          "question": "Priya multiplies the smallest three-digit whole number by the largest two-digit whole number.<br>What is the answer?",
+          "options": [
+            { "text": "8,910" },
+            { "text": "9,900" },
+            { "text": "89,100" },
+            { "text": "99,900" },
+            { "text": "990,000" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "David bought 5 pizzas to share with Emma, Tom, and Sarah.<br>Emma ate 5/7 of a pizza.<br>Tom ate 9/7 of a pizza.<br>Sarah ate 4/7 of a pizza.<br>David ate all the remaining pizza.<br>How much more pizza did David eat than Emma?",
+          "options": [
+            { "text": "5/7" },
+            { "text": "8/7" },
+            { "text": "10/7" },
+            { "text": "12/7" },
+            { "text": "15/7" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 4,
+          "question": "Rectangles X and Y both have the same area.<br><img width='50%' src='./assests/images/question/1.png'><br>What is the width of rectangle Y?",
+          "options": [
+            { "text": "4 cm" },
+            { "text": "10 cm" },
+            { "text": "15 cm" },
+            { "text": "18 cm" },
+            { "text": "20 cm" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 5,
+          "question": "Jake has a cup containing 200 mL of juice, and a jug containing 1200 mL of water.<br>Jake drinks 20 mL of the juice.<br>He finds the drink too sweet, so he adds water from the jug until the total liquid reaches 400 mL.<br><img width='40%' src='./assests/images/question/2.png'><br>How much water is left in the jug?",
+          "options": [
+            { "text": "640 mL" },
+            { "text": "720 mL" },
+            { "text": "800 mL" },
+            { "text": "980 mL" },
+            { "text": "1,000 mL" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 6,
+          "question": "The symbol <img width='5%' src='./assests/images/question/20.png'> always represents the same number and the symbol <img width='5%' src='./assests/images/question/19.png'> represents another number.<br><img width='30%' src='./assests/images/question/18.png'>",
+          "options": [
+            { "text": "4" },
+            { "text": "10" },
+            { "text": "18" },
+            { "text": "22" },
+            { "text": "28" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 7,
+          "question": "Maria had $20. She gave some of this money to Juan.<br>Maria then gave half of what she had left to Leo.<br>Leo gave half of what he was given to Mia.<br>Mia received $2.50.<br>How much did Maria give to Juan?",
+          "options": [
+            { "text": "$5.00" },
+            { "text": "$7.50" },
+            { "text": "$10.00" },
+            { "text": "$12.50" },
+            { "text": "$15.00" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 8,
+          "question": "145 candies are shared among 16 children. Each child gets 9 candies and 1 candy is left.<br>Which number sentence shows this information?",
+          "options": [
+            { "text": "16 + 9 × 1 = 145" },
+            { "text": "16 × 1 + 9 = 145" },
+            { "text": "16 × 9 + 1 = 145" },
+            { "text": "16 - 9 + 1 = 145" },
+            { "text": "16 × 1 + 9 = 145" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 9,
+          "question": "A large rectangle has sides 12 cm and 14 cm.<br>Two small rectangles are removed from this large rectangle.<br>This leaves the shaded shape.<br><img width='45%' src='./assests/images/question/3.png'><br>What is the perimeter of the shaded shape?",
+          "options": [
+            { "text": "178 cm" },
+            { "text": "107 cm" },
+            { "text": "92 cm" },
+            { "text": "86 cm" },
+            { "text": "73 cm" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 10,
+          "question": "Ethan, Lily, and Noah shared a chocolate cake.<br><img width='40%' src='./assests/images/question/4.png'><br>Ethan ate 1/3 of the cake, Lily ate 1/4 of the cake, and Noah ate the rest.<br>Which of the following statements are correct?<br>Statement 1: Noah ate less than half of the cake.<br>Statement 2: Ethan ate less than one-quarter of the cake.<br>Statement 3: Ethan and Lily together ate less than two-thirds of the cake.",
+          "options": [
+            { "text": "Statement 1 only" },
+            { "text": "Statement 2 only" },
+            { "text": "Statement 3 only" },
+            { "text": "Statements 1 and 2 only" },
+            { "text": "Statements 1 and 3 only" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 11,
+          "question": "In a magic square, each row, column, and diagonal add up to the same total.<br><img width='55%' src='./assests/images/question/5.png'><br>If ▲ = 21, what is the missing number at ❤?",
+          "options": [
+            { "text": "6" },
+            { "text": "14" },
+            { "text": "18" },
+            { "text": "19" },
+            { "text": "20" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 12,
+          "question": "Oliver and Maya both round the number 3,480,000.<br>Oliver rounds it to the nearest million.<br>Maya rounds it to the nearest hundred thousand.<br>What is the difference between their answers?",
+          "options": [
+            { "text": "0" },
+            { "text": "50,000" },
+            { "text": "500,000" },
+            { "text": "150,000" },
+            { "text": "200,000" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "Three different bags are weighed in pairs.<br>Different pairs of bags have combined weights of 18 kg, 22 kg, and 28 kg as shown.<br><img width='55%' src='./assests/images/question/6.png'><br>When the three bags are weighed together, what is their combined weight?",
+          "options": [
+            { "text": "34 kg" },
+            { "text": "42 kg" },
+            { "text": "50 kg" },
+            { "text": "54 kg" },
+            { "text": "60 kg" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "In the number 34,060, how many times larger is the value represented by digit 3 than the value represented by the digit 6?",
+          "options": [
+            { "text": "40 times" },
+            { "text": "100 times" },
+            { "text": "200 times" },
+            { "text": "500 times" },
+            { "text": "1,000 times" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 15,
+          "question": "A shop sells apples, bananas, and oranges.<br>The number of oranges is triple the number of apples.<br>The number of bananas is half the number of oranges.<br>If there are 20 apples, how many bananas are there?",
+          "options": [
+            { "text": "10" },
+            { "text": "20" },
+            { "text": "30" },
+            { "text": "40" },
+            { "text": "50" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 16,
+          "question": "A rectangle has a perimeter of 64 cm.<br>If its length is thrice its width, what is the width?",
+          "options": [
+            { "text": "8 cm" },
+            { "text": "10 cm" },
+            { "text": "12 cm" },
+            { "text": "14 cm" },
+            { "text": "16 cm" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 17,
+          "question": "What is the area of the pink part?<br><img width='45%' src='./assests/images/question/7.png'>",
+          "options": [
+            { "text": "40 cm²" },
+            { "text": "31 cm²" },
+            { "text": "30 cm²" },
+            { "text": "28 cm²" },
+            { "text": "25 cm²" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 18,
+          "question": "A 5-liter water tank is filled in three stages:<br>First, 30% is filled.<br>Then, 40% of the remaining water is added.<br>Finally, the rest is filled.<br>How many liters were added in the final stage?",
+          "options": [
+            { "text": "1.2 L" },
+            { "text": "1.5 L" },
+            { "text": "1.8 L" },
+            { "text": "2.0 L" },
+            { "text": "2.1 L" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 19,
+          "question": "A farm has cows, chickens, and goats.<br>½ of the animals are cows.<br>¼ are chickens.<br>The rest are goats.<br>If there are 120 animals in total, how many goats are there?",
+          "options": [
+            { "text": "20" },
+            { "text": "30" },
+            { "text": "40" },
+            { "text": "50" },
+            { "text": "60" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "A 1.8 meter stick is cut into three parts.<br>The lengths are in the ratio 2:3:4.<br>What is the length of the longest piece?",
+          "options": [
+            { "text": "0.6 m" },
+            { "text": "0.8 m" },
+            { "text": "1.0 m" },
+            { "text": "1.2 m" },
+            { "text": "1.4 m" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 21,
+          "question": "A gym charges membership fees:<br>$20 per month<br>A one-time registration fee of $30<br>How much will a member pay in 8 months?",
+          "options": [
+            { "text": "$160" },
+            { "text": "$170" },
+            { "text": "$180" },
+            { "text": "$190" },
+            { "text": "$200" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 22,
+          "question": "Liam divides a garden fence into equal sections.<br>He paints some sections blue, as shown in the figure.<br>He then paints 1/3 of the whole fence red.<br>Finally, he paints the rest of the fence brown.<br><img width='45%' src='./assests/images/question/8.png'><br>How many sections does he paint brown?",
+          "options": [
+            { "text": "1" },
+            { "text": "2" },
+            { "text": "3" },
+            { "text": "4" },
+            { "text": "5" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 23,
+          "question": "What is the size of the reflex angle given below?<br><img width='50%' src='./assests/images/question/9.png'>",
+          "options": [
+            { "text": "265°" },
+            { "text": "260°" },
+            { "text": "255°" },
+            { "text": "90°" },
+            { "text": "120°" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 24,
+          "question": "Zara finds a set of decimal number cards and wants to arrange them in ascending order. Here are the cards she has:<br><img width='35%' src='./assests/images/question/10.png'><br>After carefully sorting them, Zara selects the middle card in the sequence.<br>Which number does she find in the middle?",
+          "options": [
+            { "text": "0.62" },
+            { "text": "0.48" },
+            { "text": "0.51" },
+            { "text": "0.57" },
+            { "text": "0.43" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 25,
+          "question": "Kiran draws two identical right-angled isosceles triangles on the pavement to form a parallelogram.<br>She labels the four corners A, B, C, and D, as shown in the diagram.<br><img width='40%' src='./assests/images/question/11.png'><br>Kiran starts at point A and walks along the edges of the parallelogram in order: A → B → C → D<br>Which sequence of compass directions does she follow?",
+          "options": [
+            { "text": "W, then NE, then E, then SW" },
+            { "text": "N, then NE, then W, then SW" },
+            { "text": "E, then NE, then W, then SW" },
+            { "text": "W, then SE, then E, then NW" },
+            { "text": "E, then NW, then W, then SE" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 26,
+          "question": "When an odd number is divided by 6, what are all of the possible remainders?",
+          "options": [
+            { "text": "1, 3, 5" },
+            { "text": "0, 2, 4" },
+            { "text": "1, 2, 3, 4, 5" },
+            { "text": "2, 4" },
+            { "text": "0, 1, 2, 3, 4, 5" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 27,
+          "question": "In a fruit market, there are three ways to buy apples, as shown:<br><img width='45%' src='./assests/images/question/12.png'><br>1 apple for $0.40<br>Bag of 8 apples for $3.00<br>Bag of 25 apples for $9.00<br>Sophia has $20. What is the maximum number of apples she can buy?",
+          "options": [
+            { "text": "48" },
+            { "text": "50" },
+            { "text": "52" },
+            { "text": "55" },
+            { "text": "57" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 28,
+          "question": "Emma, Liam, and Noah are cycling around a circular track. They all start at the same point and begin cycling at the same time.<br><img width='33%' src='./assests/images/question/13.png'><br>Emma completes one lap every 6 minutes. Liam completes one lap every 9 minutes. Noah completes one lap every 15 minutes. After how many minutes will all three cyclists be back at the starting point at the same time?",
+          "options": [
+            { "text": "30" },
+            { "text": "45" },
+            { "text": "60" },
+            { "text": "75" },
+            { "text": "90" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 29,
+          "question": "A gardener plants flowers in a rectangular and triangular section of a garden.<br>The rectangular section has a length 3 times its width.<br>The total area of this rectangle is 108 m².<br>Next to the rectangle, there is a triangular flowerbed with a base equal to the width of the rectangle and a height of 4 m.<br><img width='43%' src='./assests/images/question/17.png'><br>What is the total area of the garden?",
+          "options": [
+            { "text": "114 m²" },
+            { "text": "120 m²" },
+            { "text": "126 m²" },
+            { "text": "132 m²" },
+            { "text": "144 m²" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 30,
+          "question": "Emma buys pens and notebooks.<br>A pen costs $1.50<br>A notebook costs $3.80<br>She buys 5 pens and 3 notebooks<br>What is the total cost?",
+          "options": [
+            { "text": "$18.9" },
+            { "text": "$20.50" },
+            { "text": "$21.90" },
+            { "text": "$22.20" },
+            { "text": "$23.10" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 31,
+          "question": "A farmer has chickens and cows.<br>The total number of animals is 48.<br>The total number of legs is 140.<br>How many cows are there?",
+          "options": [
+            { "text": "14" },
+            { "text": "16" },
+            { "text": "18" },
+            { "text": "20" },
+            { "text": "22" }
+          ],
+          "answer": 4
+        },
+        {
+          "questionNo": 32,
+          "question": "At 2:00 PM, the angle, measured clockwise, from the minute hand to the hour hand is 60°.<br><img width='35%' src='./assests/images/question/14.png'><br> What will the angle, measured clockwise, from the hour hand to the minute hand be at 2:20 PM?",
+          "options": [
+            { "text": "50°" },
+            { "text": "55°" },
+            { "text": "60°" },
+            { "text": "65°" },
+            { "text": "70°" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 33,
+          "question": "A rope is cut into three pieces.<br>The longest piece is twice the shortest.<br>The middle piece is 10 cm longer than the shortest.<br>The total length is 90 cm.<br>What is the length of the shortest piece?",
+          "options": [
+            { "text": "15 cm" },
+            { "text": "18 cm" },
+            { "text": "20 cm" },
+            { "text": "22 cm" },
+            { "text": "24 cm" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 34,
+          "question": "Determine the measure of the angle x.<br><img width='50%' src='./assests/images/question/15.png'>",
+          "options": [
+            { "text": "48°" },
+            { "text": "50°" },
+            { "text": "55°" },
+            { "text": "60°" },
+            { "text": "64°" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 35,
+          "question": "Which of the following polygons cannot be cut into two trapeziums using one straight line?<br><img width='40%' src='./assests/images/question/16.png'>",
+          "options": [
+            { "text": "5" },
+            { "text": "4" },
+            { "text": "3" },
+            { "text": "2" },
+            { "text": "1" }
+          ],
+          "answer": 4
+        }
+      ]
+      
+      
+    }
+  ]
+}
